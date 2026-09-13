@@ -93,7 +93,7 @@ I am trying to determine:
 
 If you looked at one or more of the briefs, I'd appreciate your reaction.
 
-**[Take the very short survey →](SURVEY_LINK)**
+**[Take the very short survey →](https://www.surveymonkey.com/r/8KC8B6X)**
 
 It should take approximately **1–2 minutes**.
 
