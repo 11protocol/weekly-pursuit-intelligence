@@ -20,19 +20,19 @@ Choose whichever sector is most relevant to your work — or look at several.
 
 ### 💻 IT & Computer Services
 
-**[541511 — Custom Computer Programming Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/541511-custom-computer-programming/weekly_pursuit_intelligence-541511-2026-09-13-IeVg9.pdf)**
+**[541511 — Custom Computer Programming Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/541511-custom-computer-programming/)**
 
-**[541512 — Computer Systems Design Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/541512-computer-systems-design/weekly_pursuit_intelligence-541512-2026-09-13-GeUZ9.pdf)**
+**[541512 — Computer Systems Design Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/541512-computer-systems-design/)**
 
 ### 📊 Professional Services
 
-**[541611 — Management Consulting Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/541611-management-consulting/weekly_pursuit_intelligence-541611-2026-09-13-svA9F.pdf)**
+**[541611 — Management Consulting Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/541611-management-consulting)**
 
-**[541330 — Engineering Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/541330-engineering-services/weekly_pursuit_intelligence-541330-2026-09-13-4xrrE.pdf)**
+**[541330 — Engineering Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/541330-engineering-services/)**
 
 ### 🏢 Facilities
 
-**[561210 — Facilities Support Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/561210-Facilities-Support-Services/weekly_pursuit_intelligence-561210-2026-09-13-ti0up.pdf)**
+**[561210 — Facilities Support Services](https://github.com/11protocol/weekly-pursuit-intelligence/blob/main/561210-Facilities-Support-Services/)**
 
 ---
 
